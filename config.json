@@ -10,7 +10,7 @@
     "enableCommands": true,
     "prefix": "~",
     "status": "online",
-    "activityType": "Playing",
+    "activityType": "PLAYING",
     "activityName": "Minecraft",
     "streamActivityURL": "",
     "controllerIds": ["156576312985780224"],
@@ -24,7 +24,7 @@
     "redis": "",
     "connection": {},
     "clean": true,
-    "articlesExpire": 14,
+    "articlesExpire": 28,
     "guildBackupsExpire": 7
   },
   "feeds": {
